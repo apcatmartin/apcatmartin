@@ -1,0 +1,32 @@
+body {
+    background-image: url('/images/wallpaper.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    padding: 30px;
+  }
+  h1{
+      color:aliceblue;
+      text-align: center;
+      font-size: 40px;
+      margin: 15px;
+      font-family: 'Alegreya Sans Black';
+      padding-bottom: 60px;    
+  }
+  #dp{
+      border-radius: 50%;
+      margin: 25px 25px;
+      margin-left: 90px;
+  }
+  p{
+      font-size: 21px;
+      color:bisque;
+      text-align: justify;
+      margin: 5px 90px;
+      font-family: 'Alegreya';
+  }
+  .one{
+    float: left;
+    margin-left: 10px;
+  }
+  
